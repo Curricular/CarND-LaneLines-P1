@@ -40,7 +40,8 @@
 
 ## Potential shortcoming
 
-if the lightness of the image differs a lot, the result might be slightly influenced
+1. if the lightness of the image differs a lot, the result might be slightly influenced
+2. if the lanes are too bended, the program may not get the expected results
 
 ---
 
